@@ -11,6 +11,7 @@
 		E4B1108C2A4DA8F300E1C397 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B1108B2A4DA8F300E1C397 /* ContentView.swift */; };
 		E4B1108E2A4DA8F400E1C397 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4B1108D2A4DA8F400E1C397 /* Assets.xcassets */; };
 		E4B110912A4DA8F400E1C397 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4B110902A4DA8F400E1C397 /* Preview Assets.xcassets */; };
+		E4B110982A4DB92500E1C397 /* BlurStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B110972A4DB92500E1C397 /* BlurStackView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E4B1108B2A4DA8F300E1C397 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E4B1108D2A4DA8F400E1C397 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4B110902A4DA8F400E1C397 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E4B110972A4DB92500E1C397 /* BlurStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurStackView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				E4B110892A4DA8F300E1C397 /* WeatherCloneAppApp.swift */,
+				E4B110972A4DB92500E1C397 /* BlurStackView.swift */,
 				E4B1108B2A4DA8F300E1C397 /* ContentView.swift */,
 				E4B1108D2A4DA8F400E1C397 /* Assets.xcassets */,
 				E4B1108F2A4DA8F400E1C397 /* Preview Content */,
@@ -139,6 +142,7 @@
 			files = (
 				E4B1108C2A4DA8F300E1C397 /* ContentView.swift in Sources */,
 				E4B1108A2A4DA8F300E1C397 /* WeatherCloneAppApp.swift in Sources */,
+				E4B110982A4DB92500E1C397 /* BlurStackView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
